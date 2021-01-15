@@ -1,4 +1,4 @@
-<img src="pics/logo.png" width="500" />
+![](pics/logo.png)
 
 # YourTube
 
@@ -42,7 +42,7 @@ YourTube implements the most elementary features of YouTube.
 
 ### Learn more
 
-1. You can download the [PPT](yourtube.pptx) to learn more. 
+1. If you use Win10, you can download this [PPT](yourtube.pptx) to learn more. 
 
    **Note**: Demo videos are embedded in the PPT. 
 
@@ -60,11 +60,9 @@ YourTube implements the most elementary features of YouTube.
 
 ### Main Tabs
 
-| Home Page                               | Subscription Page                                            | Explore Page                               |
-| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ |
-| <img src="pics/Home.png" width="300" /> | <img src="pics/Subscription.png" width="300" /> <img src="pics/Subscription-selected.png" width="300" /> | <img src="pics/Explore.png" width="300" /> |
-
-
+| Home Page                               | Subscription Page                               | Subscription Page(selected)                              | Explore Page                               |
+| --------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| <img src="pics/Home.png" width="300" /> | <img src="pics/Subscription.png" width="300" /> | <img src="pics/Subscription-selected.png" width="300" /> | <img src="pics/Explore.png" width="300" /> |
 
 
 
