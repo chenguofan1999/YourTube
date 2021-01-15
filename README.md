@@ -6,19 +6,22 @@ A video APP on IOS, It's Almost YouTube.
 
 
 
-<img src="pics/fromYoutube.gif" width="400" />
+<img src="pics/fromYoutube.gif" width="500" />
 
+## Features
 
+YourTube implements the most elementary features of YouTube, in an elegant way.
 
-## Architecture
+To learn about the features:
 
-![](pics/arch.png)
+1. If you use Win10, you can download this [PPT](yourtube.pptx) to learn more. 
 
-- Back End Repo: [github.com/chenguofan1999/IOS_Final_Backend](https://github.com/chenguofan1999/IOS_Final_Backend)
+   **Note**: Demo videos are embedded in the PPT. 
 
-- Front End Repo: [github.com/chenguofan1999/YourTube-IOS](https://github.com/chenguofan1999/YourTube-IOS)
+   **Note**: Recommend to use PowerPoint2016 or above. 
 
-
+2. [Another Demo video avaluable on bilibili](https://www.bilibili.com/video/BV1Br4y1T7Xz/)
+3. See screenshots below.
 
 ## Access
 
@@ -34,21 +37,15 @@ Then open `Final.xcworkspace` , build and run it on simulator.
 
 
 
-## Features
+## Architecture
 
-YourTube implements the most elementary features of YouTube.
+![](pics/arch.png)
+
+- Back End Repo: [github.com/chenguofan1999/IOS_Final_Backend](https://github.com/chenguofan1999/IOS_Final_Backend)
+
+- Front End Repo: [github.com/chenguofan1999/YourTube-IOS](https://github.com/chenguofan1999/YourTube-IOS)
 
 
-
-### Learn more
-
-1. If you use Win10, you can download this [PPT](yourtube.pptx) to learn more. 
-
-   **Note**: Demo videos are embedded in the PPT. 
-
-   **Note**: Recommend to use PowerPoint2016 or above. 
-
-2. [Another Demo video avaluable on bilibili](https://www.bilibili.com/video/BV1Br4y1T7Xz/)
 
 ## Screenshots
 
