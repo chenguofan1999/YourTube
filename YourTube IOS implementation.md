@@ -1,8 +1,8 @@
 # YourTube 的前端实现
 
-## 开发的纲领
+## 目的和目标
 
-YourTube 的前端开发在一开始就确定了纲领，包括开发的目的和对程序的目标。之后两周多的开发自始至终围绕着它们进行。
+YourTube 的前端开发在一开始就确定了开发的目的和程序的目标。之后两周多的开发自始至终围绕着它们进行。
 
 ### 目的
 
@@ -127,7 +127,7 @@ self.tableView.mj_footer = [MJRefreshBackNormalFooter footerWithRefreshingTarget
 
 <img src="pics/PostPage.png" width="400" />
 
-实现这一需求的控件是 "picker" ，比如 UIKit 中的 UIImagePicker ，以及 github 上数百个附带编辑功能的第三方 picker. 
+实现这一需求的控件是 "picker" ，比如 UIKit 中的 UIImagePicker ，以及 github 上数以百计的附带编辑功能的第三方 picker. 
 
 UIImagePicker一般足以实现这一功能，方法如下：
 
@@ -136,7 +136,7 @@ UIImagePicker一般足以实现这一功能，方法如下：
 3. 通过选取得到的 Info 字典的 ...mediaURL 字段获取沙盒中该视频的 URL
 4. 此时可以通过该 URL 直接构造 NSData , 接下来只需要通过 AFNetworking 发送该 NSData 即可
 
-但不幸的是在我的开发过程中  UIImagePicker 具有很大概率选取失败。我最终选择了苹果在 IOS14 才提供的 PHPicker. PHPicker 是苹果提供的在未来取代 UIImagePicker 的工具，在这里能正常的工作，但需要手动转存至沙盒中，上传完毕后手动删除。以下是此页面中
+但不幸的是在我的开发过程中  UIImagePicker 具有很大概率选取失败。我最终选择了苹果在 IOS14 才提供的 PHPicker. PHPicker 是苹果提供的预计在未来取代 UIImagePicker 的工具，在这里能正常的工作，但需要讲视频手动转存至沙盒中，上传完毕后手动删除。以下是此页面中有关部分的代码：
 
 
 
