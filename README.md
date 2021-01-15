@@ -18,7 +18,10 @@ To learn about the features:
 
    **Note**: Recommend to use PowerPoint2016 or above. 
 
-2. [Another Demo video avaluable on bilibili](https://www.bilibili.com/video/BV1Br4y1T7Xz/)
+2. [Demo video1 on bilibili](https://www.bilibili.com/video/BV1Br4y1T7Xz/)
+
+   [Demo video2 on bilibili](https://www.bilibili.com/video/BV1jt4y1z7rr/)
+
 3. See screenshots below.
 
 ## Access
