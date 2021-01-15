@@ -30,7 +30,7 @@ git clone https://github.com/chenguofan1999/YourTube-IOS.git
 
 Then open `Final.xcworkspace` , build and run it on simulator. 
 
-**Note**: IOS13 or above & iPhone X series are recommended. The first time to build may take minutes.
+**Note**: IOS13 or above & iPhone X series are recommended. The first build may take minutes.
 
 
 
@@ -60,9 +60,65 @@ YourTube implements the most elementary features of YouTube.
 
 ### Main Tabs
 
-| Home Page                               | Subscription Page                               | Subscription Page(selected)                              | Explore Page                               |
-| --------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- | ------------------------------------------ |
-| <img src="pics/Home.png" width="300" /> | <img src="pics/Subscription.png" width="300" /> | <img src="pics/Subscription-selected.png" width="300" /> | <img src="pics/Explore.png" width="300" /> |
+| Home Page                               |      |      | Explore Page                               |
+| --------------------------------------- | ---- | ---- | ------------------------------------------ |
+| <img src="pics/Home.png" width="400" /> |      |      | <img src="pics/Explore.png" width="400" /> |
+
+
+
+| Subscription Page                               | Subscription Page (user selected)                        |
+| ----------------------------------------------- | -------------------------------------------------------- |
+| <img src="pics/Subscription.png" width="400" /> | <img src="pics/subscription-selected.png" width="400" /> |
+
+### User Page
+
+| Info Page(self)                              | Info Page(other user)                                | Uploads Page                                   |      |      |
+| -------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---- | ---- |
+| <img src="pics/user-info.png" width="300" /> | <img src="pics/user-info-nonself.png" width="300" /> | <img src="pics/user-videos.png" width="300" /> |      |      |
+
+
+
+
+
+| Likes Page                                    | History Page(only visible to self)              |
+| --------------------------------------------- | ----------------------------------------------- |
+| <img src="pics/user-likes.png" width="400" /> | <img src="pics/user-history.png" width="400" /> |
+
+ ### Post Page
+
+
+
+| Post Page                                   | Post Page(filled)                                  |
+| ------------------------------------------- | -------------------------------------------------- |
+| <img src="pics/PostPage.png" width="400" /> | <img src="pics/PostPage-filled.png" width="400" /> |
+
+### Video Page
+
+<img src="pics/video-page.png" width="400" /><img src="pics/video-page-2.png" width="400" />
+
+<img src="pics/Video1.png" height="400" /><img src="pics/Video2.png" height="400" />
+
+
+
+
+
+### Comment & Reply
+
+| Comments                                    | Replies                                    |
+| ------------------------------------------- | ------------------------------------------ |
+| <img src="pics/Comments.png" width="400" /> | <img src="pics/Replies.png" width="400" /> |
+
+
+
+ ### Other
+
+| Search                                    | Tag                                      |
+| ----------------------------------------- | ---------------------------------------- |
+| <img src="pics/search.png" width="400" /> | <img src="pics/taged.png" width="400" /> |
+
+
+
+
 
 
 
