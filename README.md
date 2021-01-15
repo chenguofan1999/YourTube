@@ -2,15 +2,13 @@
 
 # YourTube
 
-A video APP on IOS, It's Almost YouTube.
+YourTube is a video APP on IOS. It implements the most elementary features of YouTube, in an elegant way.
 
 
 
 <img src="pics/fromYoutube.gif" width="500" />
 
 ## Features
-
-YourTube implements the most elementary features of YouTube, in an elegant way.
 
 To learn about the features:
 
