@@ -72,9 +72,9 @@ YourTube implements the most elementary features of YouTube.
 
 ### User Page
 
-| Info Page(self)                              | Info Page(other user)                                | Uploads Page                                   |      |      |
-| -------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---- | ---- |
-| <img src="pics/user-info.png" width="300" /> | <img src="pics/user-info-nonself.png" width="300" /> | <img src="pics/user-videos.png" width="300" /> |      |      |
+| Info Page(self)                              | Info Page(other user)                                | Uploads Page                                   |
+| -------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
+| <img src="pics/user-info.png" width="300" /> | <img src="pics/user-info-nonself.png" width="300" /> | <img src="pics/user-videos.png" width="300" /> |
 
 
 
