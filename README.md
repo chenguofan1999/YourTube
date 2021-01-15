@@ -12,11 +12,9 @@ YourTube is a video APP on IOS. It implements the most elementary features of Yo
 
 To learn about the features:
 
-1. If you use Win10, you can download this [PPT](yourtube.pptx) to learn more. 
+1. If you use PowerPoint2016 or above, you can download this [PPT](yourtube.pptx) to learn details. 
 
    **Note**: Demo videos are embedded in the PPT. 
-
-   **Note**: Recommend to use PowerPoint2016 or above. 
 
 2. [Demo video1 on bilibili](https://www.bilibili.com/video/BV1Br4y1T7Xz/)
 
